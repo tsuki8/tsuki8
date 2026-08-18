@@ -1,15 +1,21 @@
 <div align="center">
 
-# Hao Shen
+# Hao Shen · 沈昊
 
 **Ph.D. student in Applied Mathematics at AMSS, UCAS**
 
 Formal Mathematics · Symbolic Computation · AI for Mathematics
 
-I develop reliable and verifiable tools for mathematical reasoning using formal methods and large language models.
+<br>
+
+## [→ Visit my personal homepage](https://tsuki8.github.io/shenhao.github.io/)
+
+### [访问个人主页](https://tsuki8.github.io/shenhao.github.io/)
 
 <br>
 
-### [Visit my personal homepage →](https://tsuki8.github.io/shenhao.github.io/)
+Research · Projects · Publications · Contact
+
+<sub>This GitHub profile is a signpost. Please visit my homepage for current information.</sub>
 
 </div>
